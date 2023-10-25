@@ -31,3 +31,4 @@ print(f"{distance:.2f}")
 
 
 ### RESULT:
+Thus the distance between two points is found
